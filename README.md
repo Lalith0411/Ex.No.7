@@ -62,25 +62,31 @@ Through effective prompt design, the model can simulate memory, adapt to user pr
 
 ---
 
-## Expected Output
+## Expected Output  
 
-### Personal Productivity Assistant Features
+### Example LLM Response  
 
-**1. Daily Task Manager:**  
-- Accepts tasks via natural language (e.g., “Remind me to call mom at 6 PM”).  
-- Organizes tasks by priority and deadline.  
-- Provides daily summaries and pending items.  
+**Personal Productivity Assistant Features:**  
 
-**2. Smart Scheduler:**  
-- Schedules events and sets reminders using contextual understanding.  
-- Notifies users of overlapping appointments or free time slots.  
+✅ **Daily Task Manager**  
+- Accepts natural language tasks (*“Remind me to call mom at 6 PM”*).  
+- Organizes by **priority** & **deadline**.  
+- Provides **daily summaries**.  
 
-**3. Wellness Tips Generator:**  
-- Suggests daily wellness advice (hydration, exercise, screen-time breaks).  
-- Adapts suggestions based on past user preferences.  
+✅ **Smart Scheduler**  
+- Context-aware event scheduling.  
+- Detects **conflicts/overlaps**.  
+- Suggests free time slots.  
 
-**4. General Query Support:**  
-- Answers everyday questions related to study, productivity, and well-being.  
+✅ **Wellness Tips Generator**  
+- Suggests hydration reminders, posture breaks, quick workouts.  
+- Learns preferences (e.g., walking > yoga).  
+
+✅ **General Query Handling**  
+- Responds to common queries.  
+- Summarizes weekly/daily agendas concisely.
+
+<img width="1124" height="1010" alt="image" src="https://github.com/user-attachments/assets/37d0969f-a8d8-4ac6-bea4-0559b481810e" />
 
 ---
 
