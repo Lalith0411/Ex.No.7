@@ -101,5 +101,4 @@ Students were able to:
 
 ---
 
- Learn prompt engineering techniques for optimal interaction with AI tools.
- Experience the versatility and utility of generative AI in solving everyday problems.
+
